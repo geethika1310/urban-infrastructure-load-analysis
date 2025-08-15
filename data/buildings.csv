@@ -1,0 +1,6 @@
+building_id,zone,type,occupancy
+101,North,Residential,120
+102,North,Commercial,80
+103,South,Residential,150
+104,East,Industrial,60
+105,West,Commercial,100
