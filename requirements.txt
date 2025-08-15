@@ -1,0 +1,6 @@
+Purpose: Python dependencies
+mysql-connector-python
+pandas
+matplotlib
+seaborn
+streamlit
